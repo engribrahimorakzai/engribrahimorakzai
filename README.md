@@ -13,7 +13,7 @@
 <!-- ================= PROFILE STATS ================= -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JunaidJamshid123&label=Profile%20Views&color=2DD881&style=for-the-badge" />
-  <a href="https://github.com/JunaidJamshid123?tab=followers">
+  <a href="https://github.com/engribrahimorakzai?tab=followers">
     <img src="https://img.shields.io/github/followers/JunaidJamshid123?label=Followers&style=for-the-badge&color=2DD881" />
   </a>
 </div>
