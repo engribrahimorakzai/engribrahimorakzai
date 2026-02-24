@@ -26,12 +26,12 @@
 ## 🚀 About Me
 
 ```javascript
-const junaid = {
-  role: "Software Engineer",
-  location: "Pakistan 🇵🇰",
+const Ibrahim Orakzai = {
+  role: "Full Stack Developer",
+  location: " Karachi Pakistan 🇵🇰",
   expertise: {
-    mobile: ["Kotlin", "Java", "Jetpack Compose", "Flutter"],
-    backend: ["Node.js", "NestJS", "REST APIs", "GraphQL"]
+    mobile: ["JavaScript, TypeScript, SQL ,ES6 ,HTML5 ,CSS3"],
+    backend: ["Node.js, Express.js, RESTful APIs, GraphQL"]
   },
   domains: ["Healthcare", "FinTech", "Enterprise"],
   passion: "Building scalable, secure, and impactful solutions"
