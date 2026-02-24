@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,20&height=180&section=header&text=Junaid%20Jamshid&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Mobile%20Apps%20|%20Backend%20Developer&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,20&height=180&section=header&text=Ibrahim%20Orakzai&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Mobile%20Apps%20|%20Backend%20Developer&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- ================= TYPING INTRO ================= -->
